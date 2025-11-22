@@ -9,3 +9,4 @@ Then launch JupyterLab:
 jupyter lab
 ```
 
+# AI_Projects
