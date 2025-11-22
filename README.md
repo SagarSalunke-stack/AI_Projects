@@ -4,9 +4,10 @@ Activate your virtual environment before coding:
 ```bash
 source ~/ai_env/bin/activate
 ```
-Then launch JupyterLab:
+Then launch VS code:
 ```bash
-jupyter lab
+code .
 ```
 
+# AI_Projects
 # AI_Projects
